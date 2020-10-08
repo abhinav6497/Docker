@@ -158,6 +158,7 @@ RUN apt-get -qq update && apt-get -qq install -y \
     jq \
     ffmpeg \
     libxml2 \
+    mediainfo \
     libssl-dev \
     wget \
     zip \
