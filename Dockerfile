@@ -155,6 +155,9 @@ RUN apt-get -qq update && apt-get -qq install -y \
     neofetch \
     postgresql \
     pv \
+    python3 \
+    python3-dev \
+    python3-pip \
     jq \
     ffmpeg \
     libxml2 \
